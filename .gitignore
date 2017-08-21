@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# 配置
+/Config/config.py
+/Config/datasource.py
+
+/Drivers/*
+
+/Log/*
+
+/.idea/*
+
+*.pyc
+/test.py
+/test_app.py
